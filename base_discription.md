@@ -1,7 +1,7 @@
 # 영화 고전 추천 시스템 
 
 ## 개요
-이 코드드는 [MovieLens 데이터셋](https://grouplens.org/datasets/movielens/)을 기반으로 협업 필터링 기법을 사용하여 영화 추천 시스템을 구현합니다. 사용자 기반 KNN, 아이템 기반 KNN, SVD 등의 추천 알고리즘을 평가하며, 다양한 평가 지표를 활용하여 성능을 측정합니다.
+이 코드는 [MovieLens 데이터셋](https://grouplens.org/datasets/movielens/)을 기반으로 협업 필터링 기법을 사용하여 영화 추천 시스템을 구현합니다. 사용자 기반 KNN, 아이템 기반 KNN, SVD 등의 추천 알고리즘을 평가하며, 다양한 평가 지표를 활용하여 성능을 측정합니다.
 
 ## 주요 기능
 - **데이터 전처리:** MovieLens 평점 및 영화 메타데이터 로드 및 분석
